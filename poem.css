@@ -1,0 +1,24 @@
+<style type="text/css">
+
+pre{
+	font-family: "Nunito",Helvetica,sans-serif;
+	vertical-align: baseline;
+	color: #333;
+	font-style: italic;
+}
+.navigation
+{
+ margin:30px;
+}
+.next
+{
+float:right;
+}
+h1
+{
+text-align: center;
+font-family: "Aleo",Georgia,serif;
+font-style: italic;
+color: #c74977;
+}
+</style>
